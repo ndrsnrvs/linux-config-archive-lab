@@ -16,7 +16,7 @@ RHEL lab demonstrating foundational Linux system administration skills including
 
 _I will note that I later discovered that I could've searched for the string I needed to look for and create the `web.txt` file in the correct directory in a single command._
 
-#### Step 1 Review
+##### Step 1 Review
 - Commands Covered:
     - `su -u`
     - `dnf install httpd`
